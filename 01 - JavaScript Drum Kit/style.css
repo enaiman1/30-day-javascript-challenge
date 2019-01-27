@@ -49,3 +49,20 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+footer{
+  background: #ffc600;
+  color: white;
+ bottom: 0;
+ width: 10rem;
+  text-align: center;
+  font-style: oblique;
+  font-size: 25px;
+  font-family: 'helvetica neue', sans-serif;
+  border: .4rem solid black;
+  border-radius: .5rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem .5rem;
+  
+  }
