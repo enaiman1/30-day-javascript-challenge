@@ -1,0 +1,1 @@
+In this app the user will be able to list food that they are going to eat, leave a check mark if they have eaten it. This will then be saved to local storage so the user will always knows the status of their food

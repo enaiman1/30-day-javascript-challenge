@@ -1,0 +1,1 @@
+the purpose of this file is to be able to make pictures appear when scrolling.

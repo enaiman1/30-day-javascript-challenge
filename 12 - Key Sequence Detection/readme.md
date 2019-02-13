@@ -1,0 +1,1 @@
+In this app we use key sequencing. If the user presses the right key combination, an image will pop up
