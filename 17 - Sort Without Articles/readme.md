@@ -1,0 +1,1 @@
+In this app , I used javascript to alphabetize a premade list, without a, an, or the effecting its position. 
