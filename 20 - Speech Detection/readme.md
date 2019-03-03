@@ -1,0 +1,1 @@
+in this app, user will have the ability to use their microphone to record what they said, and transforms it, into text

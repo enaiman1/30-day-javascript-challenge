@@ -1,0 +1,1 @@
+In this app the user will be able to see how far and fast they are going, by taping into the browser geolocation
